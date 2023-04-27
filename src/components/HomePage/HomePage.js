@@ -20,12 +20,12 @@ const HomePage = () => {
 								Your post must be free from racism and unhealthy
 								words
 							</p>
-							<p className="mb-12 lg:mb-16 2xl:mb-24 text-xl text-gray-100">
+							{/* <p className="mb-12 lg:mb-16 2xl:mb-24 text-xl text-gray-100">
 								Develop by Mr. Krishna V Chaurasiya & Mr. Rahul
 								Gautam,Under the esteemed guidance of Mrs.
 								Pradnya D’souza VIDYAVARDHINI’S ANNASAHEB VARTAK
 								COLLEGE OF ARTS,COMMERCE AND SCIENCE
-							</p>
+							</p> */}
 						</div>
 						<div className="w-full lg:w-1/2 px-4">
 							<img className="w-full" src={poster} alt={poster} />
