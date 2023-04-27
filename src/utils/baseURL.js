@@ -1,5 +1,3 @@
-const baseUrl = 'https://light-teal-crocodile.cyclic.app';
-
-//  'http://localhost:5000';
+const baseUrl = 'https://sleepy-red-camel.cyclic.app/';
 
 export default baseUrl;
