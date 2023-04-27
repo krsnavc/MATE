@@ -50,7 +50,7 @@ export const verifyAccountAction = createAsyncThunk(
 		//http call
 		try {
 			const { data } = await axios.put(
-				`https://light-teal-crocodile.cyclic.app/api/users/verify-account`,
+				'https://light-teal-crocodile.cyclic.app/api/users/verify-account',
 				{ token },
 				config
 			);
