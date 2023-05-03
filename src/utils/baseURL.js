@@ -1,3 +1,3 @@
-const baseUrl = 'https://spotless-drawers-crow.cyclic.app';
+const baseUrl = 'https://mate-backend.onrender.com';
 
 export default baseUrl;
