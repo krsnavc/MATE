@@ -1,3 +1,3 @@
-const baseUrl = 'https://awful-gray-polo-shirt.cyclic.app';
+const baseUrl = 'https://spotless-drawers-crow.cyclic.app';
 
 export default baseUrl;
