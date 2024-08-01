@@ -24,7 +24,7 @@ const HomePage = () => {
 								Develop by Mr. Krishna V Chaurasiya, Under the esteemed guidance of Mrs.
 								Pradnya D’souza VIDYAVARDHINI’S ANNASAHEB VARTAK
 								COLLEGE OF ARTS,COMMERCE AND SCIENCE
-							</p> */}
+							</p> 
 							
 						</div>
 						<div className="w-full lg:w-1/2 px-4">
